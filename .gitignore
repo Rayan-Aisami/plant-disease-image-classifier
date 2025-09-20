@@ -1,0 +1,19 @@
+# Ignore large data folders
+data/*
+models/*
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+*.env
+venv/
+image_classify/
+
+# Misc
+*.log
+*.tmp
+*.DS_Store  # Mac junk
+Thumbs.db   # Windows junk

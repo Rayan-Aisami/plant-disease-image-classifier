@@ -1,0 +1,7 @@
+# Image Classification Model for Real-World Use Case
+
+Develop a deep learning model to classify images, e.g., plant diseases from leaf photos.
+
+## Setup
+- Activate env: conda activate image_classify
+- Install deps: pip install -r requirements.txt
